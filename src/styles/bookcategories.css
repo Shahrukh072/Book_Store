@@ -1,0 +1,33 @@
+
+.category{
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.category-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+  
+  .category-card {
+    background-color: #f7fafc;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .category-card:hover {
+    background-color: #edf2f7;
+  }
+  
+  .category-text {
+    color: #2d3748;
+    font-weight: bolder;
+    font-size: large;
+  }
+
+  

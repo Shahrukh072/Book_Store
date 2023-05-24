@@ -1,0 +1,43 @@
+
+
+.container-text {
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.book-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.book-image {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 200px;
+}
+
+.book-title {
+  font-size: large;
+  font-weight: bold;
+}
+
+.book-author {
+  font-size: large;
+  font-weight: bold;
+  color: #777;
+}
