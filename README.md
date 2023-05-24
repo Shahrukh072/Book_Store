@@ -1,7 +1,9 @@
-![Screenshot 2023-05-24 21 12 07](https://github.com/Shahrukh072/Book_Store/assets/37824383/838e4675-354a-4ec0-8a09-327f591351d9)
+
 # Getting Started with Create React App
 
 https://reactsbookstore.netlify.app/
+
+![Screenshot 2023-05-24 21 12 07](https://github.com/Shahrukh072/Book_Store/assets/37824383/838e4675-354a-4ec0-8a09-327f591351d9)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
